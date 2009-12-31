@@ -1,15 +1,16 @@
 <?php
 /*
-Plugin Name:[GWA] Database Editor (less dangerous version)
-Plugin URI: http://code4cookies.com
+Plugin Name: Database Editor
+Plugin URI: http://github.com/nighthwk1/wp-database-editor
 Description:A plugin to access and edit all your database fields.
-Version: 1.0a
-Author: G.J.P.
+Version: 1.1
+Author: G.J.P., Jon Roberts
 Author URI: http://Code4Cookies.com
 */
 
 /*
 		Copyright 2009	G.J.P	 (email : cookies@getwebactive.com)
+		Forked by Jon Roberts (http://jon.bandedartists.com)
 
 		This program is free software; you can redistribute it and/or modify
 		it under the terms of the GNU General Public License as published by
