@@ -16,7 +16,6 @@ A powerful plugin that will allow you to access and update your database tables 
 *   Uses AJAX and TableKit to update field data.
 *   Simple and fast. Just click, edit, and submit.
 *   CAUTION: If you do not know what you are doing DO NOT INSTALL THIS PLUG-IN.
-*   WARNING: This plugin can accidentally disable your blog with one click.
 *   DISCLAIMER: The author of this plugin takes no responsibility for its use.
 
 == Installation ==
